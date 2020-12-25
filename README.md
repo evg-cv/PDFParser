@@ -15,10 +15,6 @@ The library to parse the pdf is PyMuPDF and the library to export the result int
 
     The source code for management of the files and folders.
     
-- templates
-
-    The web page to upload the pdf files
-    
 - app
 
     The main execution file
@@ -52,5 +48,3 @@ The library to parse the pdf is PyMuPDF and the library to export the result int
     ```
         python3 app.py
     ```
-
-- Please navigate "http://localhost:5000" in web browser
